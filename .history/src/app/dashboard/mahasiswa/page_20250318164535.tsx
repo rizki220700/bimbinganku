@@ -241,7 +241,7 @@ useEffect(() => {
 </div>
 
 
-        
+        <ProgressSkripsi userId={userProfile?.userId || ''} />
       </section>
 
       <section className="bg-white p-6 rounded-lg shadow-md">
